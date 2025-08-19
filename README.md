@@ -1,0 +1,28 @@
+# Broadcast – Free Responsive HTML5 Entertainment Website Template
+
+#### Preview
+
+ - [Demo](https://themewagon.github.io/PhaseShift/)
+
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/phaseshift/)
+ 
+ 
+## Getting Started
+
+Clone from GitHub 
+```
+https://github.com/themewagon/PhaseShift.git
+```
+
+## Author
+
+Design and code are completely written by Templated.Co's design and development team.  
+
+
+## License
+
+ - Design and Code is Copyright &copy; [Templated.Co](https://templated.co/)
+ - Licensed under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
+
