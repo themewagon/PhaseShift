@@ -1,4 +1,4 @@
-# Broadcast – Free Responsive HTML5 Entertainment Website Template
+# PhaseShift – Free HTML5 Multipurpose Landing Page Template
 
 #### Preview
 
