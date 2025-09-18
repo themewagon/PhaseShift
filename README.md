@@ -17,7 +17,7 @@ https://github.com/themewagon/PhaseShift.git
 
 ## Author
 
-Design and code are completely written by Templated.Co's design and development team.  
+Design and code are completely written by Templated's design and development team.  
 
 
 ## License
